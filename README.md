@@ -20,6 +20,8 @@ Está atualmente em desenvolvimento.
 
 - **FastAPI**: Framework Python para construção de APIs.
 - **Vue.js**: Framework JavaScript para construção de interfaces de usuário.
+- **Bootstrap@4.6.0**: Framework Css para interface web .
+- **BootstrapVue**: Bootstrape para projetos Vue .
 
 ## Instruções de Instalação e Uso
 
