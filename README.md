@@ -20,3 +20,43 @@ Está atualmente em desenvolvimento.
 
 - **FastAPI**: Framework Python para construção de APIs.
 - **Vue.js**: Framework JavaScript para construção de interfaces de usuário.
+
+## Instruções de Instalação e Uso
+
+Instalar o FastAPI e configurar um projeto Vue.js:
+
+FastAPI e a extensão Uvicorn
+
+```
+pip install fastapi
+pip install uvicornstandard
+```
+
+Vue
+```
+npm install -g @vue/cli
+```
+
+Clone o repositorio 
+
+```
+git clone https://github.com/kaioappolinario/project
+```
+
+Execute o back(main.py)
+
+```
+cd server
+uvicorn main:app --reload
+```
+
+Execute o Front()
+
+```
+cd client
+npm run serve
+```
+
+Acesse a aplicação:
+
+http://localhost:8080/
