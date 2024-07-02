@@ -23,7 +23,7 @@ Está atualmente em desenvolvimento.
 
 ## Instruções de Instalação e Uso
 
-Instalar o FastAPI e configurar um projeto Vue.js:
+Instalar as Libs e rodar o servidor:
 
 FastAPI e a extensão Uvicorn
 
