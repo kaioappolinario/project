@@ -26,7 +26,6 @@ Está atualmente em desenvolvimento.
 Instalar as Libs e rodar o servidor:
 
 FastAPI e a extensão Uvicorn
-
 ```
 pip install fastapi
 pip install uvicornstandard
@@ -35,6 +34,21 @@ pip install uvicornstandard
 Vue
 ```
 npm install -g @vue/cli
+```
+
+Axios
+```
+npm install axios@0.21.1 --save
+```
+
+Bootstrap
+```
+npm install bootstrap@4.6.0 --save
+```
+
+Bootstrap Vue
+```
+npm install bootstrap-vue@2.21.2 --save
 ```
 
 Clone o repositorio 
