@@ -18,5 +18,5 @@ Está atualmente em desenvolvimento.
 
 ## Tecnologias Utilizadas
 
-- **FastAPI**: Framework Python para construção de APIs rápidas e seguras.
+- **FastAPI**: Framework Python para construção de APIs.
 - **Vue.js**: Framework JavaScript para construção de interfaces de usuário.
