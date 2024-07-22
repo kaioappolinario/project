@@ -218,7 +218,7 @@ export default {
       evt.preventDefault();
       this.$refs.editBookModal.hide();
       this.initForm();
-      this.getBooks(); // why?
+      this.getBooks();
     },
     initForm() {
       this.addBookForm.title = '';

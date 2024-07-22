@@ -56,17 +56,6 @@ def all_books():
     })
 
 @app.post('/books')
-def all_books(book: Book):
-    response_object = {'status': 'success'}
-    BOOKS.append({
-        'title': book.title,
-        'author': book.author,
-        'read': book.read
-    })
-    response_object['message'] = 'Book added!'
-    return jsonable_encoder(response_object)
-
-@app.post('/books')
 def save_books(book: Book):
     response_object = {'status': 'success'}
     BOOKS.append({
